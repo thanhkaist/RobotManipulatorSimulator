@@ -274,8 +274,6 @@ if __name__=="__main__":
     #print(frame1)
     #print(frame2)
 
-    input()
-
     # Ready to simulate 
     for i in range(200):
         vp.rate(30)
