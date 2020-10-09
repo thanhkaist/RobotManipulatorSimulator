@@ -5,21 +5,21 @@ A simple robot manipulator simulator for those who want to learn the basic conce
 
 Requirement package (Using python3)
 
-- vpython
+- vpython 
 - numpy
 
+you can install these packages using 
+
+```
+pip install {package_name}
+```
 
 
 Run the code:
 
 ```
-
-```
-
 cd robosim
 
 python robot.py
-
-```
 
 ```
